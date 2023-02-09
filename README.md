@@ -1,6 +1,9 @@
 # getx_guide
 
-A new Flutter project.
+Flutter GetX state management Architecture for small and large applications.
+
+![Screenshot 2023-02-09 at 12 14 10](https://user-images.githubusercontent.com/86893073/217797564-5378ee38-c6fb-42d7-b072-917d8497940f.png)
+
 
 ## Getting Started
 
